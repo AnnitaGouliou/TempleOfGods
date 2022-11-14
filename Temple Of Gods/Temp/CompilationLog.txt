@@ -18,3 +18,13 @@
 /Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-51ba9ce93525742b4b2fe3e082cb7c78
 # Starting compiling Unity.TerrainTools.dll
 /Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-98c49d15351644c5b8c1e01a8e47c275
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-93f155607e40e4aee9c9e9e6b0fccec9
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7cecd9b6e255e48c7b9abce6ef005f78
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8cd6bceb6eee4455db7d0e8b2ee45c7a
+# Starting compiling Cinemachine.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6807b9f5acb4c457f9e479f5d3a890b2
+# Starting compiling Assembly-CSharp.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b868442b786784b8bb2b032647efec98

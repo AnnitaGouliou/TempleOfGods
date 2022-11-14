@@ -8373,3 +8373,255 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.817 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1817ms)
+		BeginReloadAssembly (130ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (73ms)
+		EndReloadAssembly (1616ms)
+			LoadAssemblies (72ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (416ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (802ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (124ms)
+				ProcessInitializeOnLoadAttributes (660ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (23ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3372 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 395.5 MB.
+System memory in use after: 394.1 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4630.
+Total: 5.101245 ms (FindLiveObjects: 0.302328 ms CreateObjectMapping: 0.149791 ms MarkObjects: 3.650288 ms  DeleteObjects: 0.998037 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 10553.507668 seconds.
+  path: Assets/Environment/Art/Models/zeustemple.fbx
+  artifactKey: Guid(c52646ff24f7d44429aadd09d0f4f6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/zeustemple.fbx using Guid(c52646ff24f7d44429aadd09d0f4f6cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f95708cc4b6c530b7f78cb5957e02d33') in 0.212255 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002306 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.918 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1918ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (84ms)
+		EndReloadAssembly (1700ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (464ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (833ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (138ms)
+				ProcessInitializeOnLoadAttributes (678ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (22ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3372 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 396.0 MB.
+System memory in use after: 394.6 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4669.
+Total: 5.647636 ms (FindLiveObjects: 0.304413 ms CreateObjectMapping: 0.153916 ms MarkObjects: 3.521206 ms  DeleteObjects: 1.667265 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 848.390780 seconds.
+  path: Assets/Environment/Art/Models/templesigns
+  artifactKey: Guid(87da52431b4254ca6b7adf6337c432ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns using Guid(87da52431b4254ca6b7adf6337c432ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb153674074665c8e277e9cef0c947d') in 0.007585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.620370 seconds.
+  path: Assets/Environment/Art/Models/templesigns/aphroditetemple.fbx
+  artifactKey: Guid(7f43577aa825a4085a8ae4e49a2ae94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/aphroditetemple.fbx using Guid(7f43577aa825a4085a8ae4e49a2ae94d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089afb30128edeebfe6700c1fcab5793') in 0.186774 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Environment/Art/Models/templesigns/athenatemple.fbx
+  artifactKey: Guid(3252b008dabef4638897275a057d3a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/athenatemple.fbx using Guid(3252b008dabef4638897275a057d3a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f99c7c85b8786ff76e10fdf199b4972d') in 0.080043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Environment/Art/Models/templesigns/hermestemple.fbx
+  artifactKey: Guid(a7f11ec16f04e4b9293fd4be701dd464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/hermestemple.fbx using Guid(a7f11ec16f04e4b9293fd4be701dd464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27350e23c9d39eaad28959814d60aa5a') in 0.081726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Environment/Art/Models/templesigns/apollotemple.fbx
+  artifactKey: Guid(d8153647f0054429dae464e3929fc5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/apollotemple.fbx using Guid(d8153647f0054429dae464e3929fc5fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6043ae8432849d5a44359b3ffa8916') in 0.112652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Environment/Art/Models/templesigns/artemistemple.fbx
+  artifactKey: Guid(f55bcc084a5634cd497a95820adfd544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/artemistemple.fbx using Guid(f55bcc084a5634cd497a95820adfd544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0ec1f6f71e75c34fd80b0b3d76384fb') in 0.076524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Environment/Art/Models/templesigns/hadestemple.fbx
+  artifactKey: Guid(dccd4221b815641b6b33c55191da4df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/hadestemple.fbx using Guid(dccd4221b815641b6b33c55191da4df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d38d5df12299d03c8b9df91249c74f1') in 0.081599 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Environment/Art/Models/templesigns/poseidontemple.fbx
+  artifactKey: Guid(ac442fb560505469bae01c0620436ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/poseidontemple.fbx using Guid(ac442fb560505469bae01c0620436ec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8c7af5528ed0ad1eb935010ea8c8314') in 0.114422 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Environment/Art/Models/templesigns/arestemple.fbx
+  artifactKey: Guid(492fbb04a2c184e83b3b24b1cc90d2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/arestemple.fbx using Guid(492fbb04a2c184e83b3b24b1cc90d2c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39791de479474c8f62e00f6d7e98f006') in 0.111123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Environment/Art/Models/templesigns/heratemple.fbx
+  artifactKey: Guid(def4841233c9343e881301bea5d05759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/heratemple.fbx using Guid(def4841233c9343e881301bea5d05759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddcfe095ff7b4275e02707d16b15042a') in 0.077795 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Environment/Art/Models/templesigns/dionysustemple.fbx
+  artifactKey: Guid(e0f8165e544964b768dee63d916d91ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/dionysustemple.fbx using Guid(e0f8165e544964b768dee63d916d91ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dac2df458844bced09656e976c6b7bc') in 0.109388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Environment/Art/Models/templesigns/demetertemple.fbx
+  artifactKey: Guid(207aea4f9628e4d72b424d27b267855f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/templesigns/demetertemple.fbx using Guid(207aea4f9628e4d72b424d27b267855f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33190c755789556a7ad044720fc259d4') in 0.113005 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002174 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.457 seconds
+Domain Reload Profiling:
+	ReloadAssembly (4457ms)
+		BeginReloadAssembly (197ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (82ms)
+		EndReloadAssembly (4105ms)
+			LoadAssemblies (139ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (822ms)
+			ReleaseScriptCaches (4ms)
+			RebuildScriptCaches (107ms)
+			SetupLoadedEditorAssemblies (2090ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (154ms)
+				ProcessInitializeOnLoadAttributes (1905ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (3ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (172ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3372 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 396.4 MB.
+System memory in use after: 395.0 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4708.
+Total: 7.348195 ms (FindLiveObjects: 0.334700 ms CreateObjectMapping: 0.162453 ms MarkObjects: 5.759997 ms  DeleteObjects: 1.090035 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: b23960f63f64bdc6ff669e2cdcee2391 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

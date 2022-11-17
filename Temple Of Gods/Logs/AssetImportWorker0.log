@@ -9658,3 +9658,39 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 8625.114015 seconds.
+  path: Assets/Environment/Art/Models/symbols/sword.fbx
+  artifactKey: Guid(0109576f06d42444d8a79aa803b09236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/sword.fbx using Guid(0109576f06d42444d8a79aa803b09236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89c5bdb2ec3d43567b969b10f8bb640a') in 0.200992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.160507 seconds.
+  path: Assets/Environment/Art/Models/symbols/spear.fbx
+  artifactKey: Guid(1eff397f36c8d4bd499f9d9f3a002763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/spear.fbx using Guid(1eff397f36c8d4bd499f9d9f3a002763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa46a6321b97538ae86a064416e775ab') in 0.113810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 51.863545 seconds.
+  path: Assets/Environment/Art/Models/symbols/spear .fbx
+  artifactKey: Guid(b929a461196254afdb1d095585e7aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/spear .fbx using Guid(b929a461196254afdb1d095585e7aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a6925b41bdf60a3bf54e190b85afb2') in 0.109855 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 109.022798 seconds.
+  path: Assets/Environment/Art/Models/symbols/spear .fbx
+  artifactKey: Guid(b929a461196254afdb1d095585e7aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/spear .fbx using Guid(b929a461196254afdb1d095585e7aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b87c8da628ae4f3e011520b832f7dc2') in 0.110736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.281470 seconds.
+  path: Assets/Environment/Art/Models/symbols/spear .fbx
+  artifactKey: Guid(b929a461196254afdb1d095585e7aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/spear .fbx using Guid(b929a461196254afdb1d095585e7aeee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a197267f8862dd96e96659f7bf67b76') in 0.089370 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 111.448524 seconds.
+  path: Assets/Environment/Art/Materials/New Material 3.mat
+  artifactKey: Guid(384822c2bd46745c18a4aa875fb4a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 3.mat using Guid(384822c2bd46745c18a4aa875fb4a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c303c0347042da84c99242ebc266006') in 0.063101 seconds 

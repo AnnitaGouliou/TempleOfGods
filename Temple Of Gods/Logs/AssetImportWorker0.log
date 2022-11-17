@@ -9694,3 +9694,27 @@ Received Import Request.
   path: Assets/Environment/Art/Materials/New Material 3.mat
   artifactKey: Guid(384822c2bd46745c18a4aa875fb4a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Environment/Art/Materials/New Material 3.mat using Guid(384822c2bd46745c18a4aa875fb4a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c303c0347042da84c99242ebc266006') in 0.063101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2589.130919 seconds.
+  path: Assets/Environment/Art/Models/symbols/bowandarrow.fbx
+  artifactKey: Guid(2824fd25cba154e6a9f5089dd1b19e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/bowandarrow.fbx using Guid(2824fd25cba154e6a9f5089dd1b19e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '854ba5fed01d741cf87809c43bb00dee') in 0.182073 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 108.955498 seconds.
+  path: Assets/Environment/Art/Materials/New Material 3.mat
+  artifactKey: Guid(384822c2bd46745c18a4aa875fb4a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 3.mat using Guid(384822c2bd46745c18a4aa875fb4a3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35a97e9473b23caf66242d476b104ad0') in 0.119863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.852297 seconds.
+  path: Assets/Environment/Art/Materials/New Material 4.mat
+  artifactKey: Guid(81063248eba8346af915b0540553d802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 4.mat using Guid(81063248eba8346af915b0540553d802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2437c0eab7702a51799d735810dd4bcc') in 0.075696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.802292 seconds.
+  path: Assets/Environment/Art/Materials/New Material 4.mat
+  artifactKey: Guid(81063248eba8346af915b0540553d802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 4.mat using Guid(81063248eba8346af915b0540553d802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b339208b6abcfdfdf220b39c6f9fc0') in 0.092916 seconds 

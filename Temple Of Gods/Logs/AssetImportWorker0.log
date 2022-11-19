@@ -9846,3 +9846,21 @@ Received Import Request.
   path: Assets/Environment/Art/Models/symbols/wheat.fbx
   artifactKey: Guid(5348cde3befc246b2a0446463bac3cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Environment/Art/Models/symbols/wheat.fbx using Guid(5348cde3befc246b2a0446463bac3cb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0845d29fb233ba567e122dbc4a6281') in 0.196773 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 152248.933358 seconds.
+  path: Assets/Environment/Art/Models/symbols/grapes.fbx
+  artifactKey: Guid(9b32210d232a04556a25809c8d3936ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/grapes.fbx using Guid(9b32210d232a04556a25809c8d3936ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e908f34552e98fe2e88c84e1c3ffc7') in 0.102944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.901026 seconds.
+  path: Assets/Environment/Art/Materials/New Material 5.mat
+  artifactKey: Guid(340bdd776aa904dec90a43d4080bae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 5.mat using Guid(340bdd776aa904dec90a43d4080bae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51cdc0211beff4c19685e6f1704f469a') in 0.050005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 105.793263 seconds.
+  path: Assets/Environment/Art/Materials/New Material 5.mat
+  artifactKey: Guid(340bdd776aa904dec90a43d4080bae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 5.mat using Guid(340bdd776aa904dec90a43d4080bae1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653195f30bac0dd7bac1067d263be974') in 0.071017 seconds 

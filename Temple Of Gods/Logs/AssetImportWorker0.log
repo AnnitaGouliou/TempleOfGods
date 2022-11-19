@@ -9870,3 +9870,27 @@ Received Import Request.
   path: Assets/Environment/Art/Models/symbols/hammer.fbx
   artifactKey: Guid(373940e653c8743c58b3d966d3f87d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Environment/Art/Models/symbols/hammer.fbx using Guid(373940e653c8743c58b3d966d3f87d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0688b782b68bdd330580131cd501ac97') in 0.102718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1409.865102 seconds.
+  path: Assets/Environment/Art/Models/symbols/anvil.fbx
+  artifactKey: Guid(3cab83336e7094edf8fa564ca4f98fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/anvil.fbx using Guid(3cab83336e7094edf8fa564ca4f98fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e1b813067e616aa4203b88412339e91') in 0.082029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.733725 seconds.
+  path: Assets/Environment/Art/Models/symbols/anvil.fbx
+  artifactKey: Guid(3cab83336e7094edf8fa564ca4f98fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/anvil.fbx using Guid(3cab83336e7094edf8fa564ca4f98fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a60c3bcc1097cb9be34662bb91f0902f') in 0.068236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 279.488588 seconds.
+  path: Assets/Environment/Art/Models/symbols/anvil 1.fbx
+  artifactKey: Guid(12b2cd74d4c2944768cb29dddb065a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/anvil 1.fbx using Guid(12b2cd74d4c2944768cb29dddb065a24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd61037738c91de96630e73d96337528b') in 0.064263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 64.096322 seconds.
+  path: Assets/Environment/Art/Materials/New Material 6.mat
+  artifactKey: Guid(ecb21155d78ab46e3bfbc0fb4ee45c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 6.mat using Guid(ecb21155d78ab46e3bfbc0fb4ee45c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777901dedf4c5384e906ed26ae88baa0') in 0.060223 seconds 

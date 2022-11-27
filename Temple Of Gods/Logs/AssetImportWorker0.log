@@ -9960,3 +9960,9 @@ Received Import Request.
   path: Assets/Environment/Art/Materials/New Material 9.mat
   artifactKey: Guid(01f6e24a87b504cc2adac346919095a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Environment/Art/Materials/New Material 9.mat using Guid(01f6e24a87b504cc2adac346919095a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c43d9edc07b4c8275739f84aa242454a') in 0.084545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10810.833562 seconds.
+  path: Assets/Environment/Art/Models/symbols/sandals.fbx
+  artifactKey: Guid(d4130a6224a5c470ca3b8e594ebcc8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/sandals.fbx using Guid(d4130a6224a5c470ca3b8e594ebcc8da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602f7154fdb5b4db506d5ec370aca976') in 0.178802 seconds 

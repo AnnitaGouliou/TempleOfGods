@@ -9906,3 +9906,21 @@ Received Import Request.
   path: Assets/Environment/Art/Models/symbols/olive wearth.fbx
   artifactKey: Guid(e5472eca6b59a4a608ea2816ae61dcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Environment/Art/Models/symbols/olive wearth.fbx using Guid(e5472eca6b59a4a608ea2816ae61dcf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b122d1e2c21564097bb9fdc935b0f6a') in 0.122434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 649728.405335 seconds.
+  path: Assets/Environment/Art/Models/symbols/crown.fbx
+  artifactKey: Guid(85c3b31834a0f42339ac0e86d11b0a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Models/symbols/crown.fbx using Guid(85c3b31834a0f42339ac0e86d11b0a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bec517f2ccb1757efeb2975ef6ba1ac') in 0.167101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.952813 seconds.
+  path: Assets/Environment/Art/Materials/New Material 6.mat
+  artifactKey: Guid(ecb21155d78ab46e3bfbc0fb4ee45c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 6.mat using Guid(ecb21155d78ab46e3bfbc0fb4ee45c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '118fef41a4e056c8fddcfb9354536650') in 0.010853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.757812 seconds.
+  path: Assets/Environment/Art/Materials/New Material 7.mat
+  artifactKey: Guid(ad755ac7c97464597ab7ccbd390e8fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environment/Art/Materials/New Material 7.mat using Guid(ad755ac7c97464597ab7ccbd390e8fd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4366b7c093cbb1cb6b3cba413b441e55') in 0.054648 seconds 

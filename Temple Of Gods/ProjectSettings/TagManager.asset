@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - CinemachineTarget
+  - BackgroundCamera
   layers:
   - Default
   - TransparentFX
@@ -16,9 +17,9 @@ TagManager:
   - 
   - Character
   - Ground
-  - 
-  - 
-  - 
+  - NavMesh
+  - BackgroundImage
+  - DistantHotspot
   - 
   - 
   - 

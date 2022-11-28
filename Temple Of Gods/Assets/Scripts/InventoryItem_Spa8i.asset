@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: def9bbf27e7c84d878cdc2ac0871811e, type: 3}
+  m_Name: InventoryItem_Spa8i
+  m_EditorClassIdentifier: 
+  id: InventoryItem_Spa8i
+  displayName: Spa8i
+  icon: {fileID: 21300000, guid: a31e07c82c3c04df4aa62125fd89733a, type: 3}
+  prefab: {fileID: 919132149155446097, guid: 0109576f06d42444d8a79aa803b09236, type: 3}

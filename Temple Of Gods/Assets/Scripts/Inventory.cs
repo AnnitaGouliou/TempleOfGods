@@ -19,6 +19,9 @@ public class Inventory : MonoBehaviour
             {
                 invTab.SetActive(true);
                 Cursor.visible = true;
+
+
+
             }
             else
             {

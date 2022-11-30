@@ -18,10 +18,12 @@ public class Inventory : MonoBehaviour
         if (Input.GetKey(KeyCode.Tab))
             {
                 invTab.SetActive(true);
+                Cursor.visible = true;
             }
             else
             {
                 invTab.SetActive(false);
+                
             }
     }
 

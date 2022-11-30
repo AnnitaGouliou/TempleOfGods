@@ -8,10 +8,9 @@ public class curson : MonoBehaviour
 
 
 
-    
-void OnMouseDown()
-
-    {
-        Cursor.visible = true;
-    }
+void UnlockMouse()
+                {
+                Cursor.lockState = CursorLockMode.None;
+                Cursor.visible = true;
+                }
 }

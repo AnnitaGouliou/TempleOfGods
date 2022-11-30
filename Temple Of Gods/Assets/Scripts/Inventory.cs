@@ -18,7 +18,12 @@ public class Inventory : MonoBehaviour
         if (Input.GetKey(KeyCode.Tab))
             {
                 invTab.SetActive(true);
+
+                void UnlockMouse()
+                {
+                Cursor.lockState = CursorLockMode.None;
                 Cursor.visible = true;
+                }
 
 
 

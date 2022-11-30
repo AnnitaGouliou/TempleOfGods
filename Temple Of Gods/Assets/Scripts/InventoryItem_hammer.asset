@@ -15,4 +15,4 @@ MonoBehaviour:
   id: InventoryItem_hammer
   displayName: Hammer
   icon: {fileID: 21300000, guid: eae2f7e93fc584bd084d4d31a362b20a, type: 3}
-  prefab: {fileID: 919132149155446097, guid: 373940e653c8743c58b3d966d3f87d4e, type: 3}
+  prefab: {fileID: 0}

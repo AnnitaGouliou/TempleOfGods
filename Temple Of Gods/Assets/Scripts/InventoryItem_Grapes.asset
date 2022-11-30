@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: def9bbf27e7c84d878cdc2ac0871811e, type: 3}
   m_Name: InventoryItem_Grapes
   m_EditorClassIdentifier: 
-  id: InventoryItem_Grapes
-  displayName: Grapes
-  icon: {fileID: 21300000, guid: d5962fc6478154f0bb2be7bf9db78994, type: 3}
-  prefab: {fileID: 919132149155446097, guid: 9b32210d232a04556a25809c8d3936ee, type: 3}
+  id: 
+  displayName: 
+  icon: {fileID: 0}
+  prefab: {fileID: 0}

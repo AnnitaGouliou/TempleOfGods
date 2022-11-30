@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: def9bbf27e7c84d878cdc2ac0871811e, type: 3}
   m_Name: InventoryItem_Strike
   m_EditorClassIdentifier: 
-  id: InventoryItem_Strike
-  displayName: Strike
-  icon: {fileID: 21300000, guid: b5b9a00f80b99467389a4c46fec3adf4, type: 3}
-  prefab: {fileID: 919132149155446097, guid: 8c51c2cb15bcf4dcb9e4dedbd21e8c4e, type: 3}
+  id: 
+  displayName: 
+  icon: {fileID: 0}
+  prefab: {fileID: 0}

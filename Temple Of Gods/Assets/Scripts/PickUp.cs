@@ -13,6 +13,8 @@ public GameObject itemIcon;
 
 bool pickedUp = false;
 
+public Transform theDest;//
+
 
 void Start()
 {
@@ -29,10 +31,20 @@ void OnTriggerStay (Collider player)
 
         {
             pickedUp = true;
-            GameObject i = Instantiate(itemIcon);
-            i.transform.SetParent(invScript.invTab.transform);
-            Destroy(gameObject);
+         //   GameObject i = Instantiate(itemIcon); /////
+           // i.transform.SetParent(invScript.invTab.transform);
+            //Destroy(gameObject);
+        
+        GetComponent<Rigidbody>().useGravity = false;
+    this.transform.position = theDest.position;
+    this.transform.parent = GameObject.Find("Destination").transform;
         }
+    }
+
+    if (Input.GetKeyDown(KeyCode.D) && !pickedUp)
+    {
+            this.transform.parent = null;
+
     }
 
 }

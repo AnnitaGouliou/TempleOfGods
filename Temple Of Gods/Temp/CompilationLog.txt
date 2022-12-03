@@ -64,3 +64,5 @@
 /Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a95c1f33bc38243b98e7dde417eacf07
 # Starting compiling Assembly-CSharp.dll
 /Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ef37d284457cd447e8a486d3d31bab30
+# Starting compiling Assembly-CSharp-Editor.dll
+/Applications/Unity/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-58f4c8f788ecf48b5ac9324255e6a17d

@@ -17,7 +17,7 @@ public class demetercollision : MonoBehaviour
    void OnTriggerEnter(Collider col)
 
    {
-       if(col.gameObject.name == "bowandarrow")
+       if(col.gameObject.name == "wheat")
        {
            Debug.Log("Detected");
            Destroy (col.gameObject);
@@ -27,7 +27,7 @@ public class demetercollision : MonoBehaviour
            
        }
 
-       else if(col.gameObject.name == "sandals" || col.gameObject.name == "rose" || col.gameObject.name == "crown" || col.gameObject.name == "olive wearth" || col.gameObject.name == "wheat"  || col.gameObject.name == "grapes"  || col.gameObject.name == "harp" || col.gameObject.name == "ares" || col.gameObject.name == "trident" || col.gameObject.name == "hammer" || col.gameObject.name == "lightning strike") 
+       else if(col.gameObject.name == "sandals" || col.gameObject.name == "rose" || col.gameObject.name == "crown" || col.gameObject.name == "olive wearth" || col.gameObject.name == "bowandarrow"  || col.gameObject.name == "grapes"  || col.gameObject.name == "harp" || col.gameObject.name == "ares" || col.gameObject.name == "trident" || col.gameObject.name == "hammer" || col.gameObject.name == "lightning strike") 
        {
            StartCoroutine(ShowForSec());
  

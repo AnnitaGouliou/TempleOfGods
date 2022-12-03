@@ -15,6 +15,9 @@ namespace StarterAssets
 	public class FirstPersonController : MonoBehaviour
 	{
 	
+
+	//making the effect play in run//	[SerializeField] private AudioSource runningEffect;
+
 	public InventorY1 inventory;   ///////////
 		[Header("Player")]
 		[Tooltip("Move speed of the character in m/s")]
@@ -186,6 +189,7 @@ namespace StarterAssets
 
 				// round speed to 3 decimal places
 				_speed = Mathf.Round(_speed * 1000f) / 1000f;
+		//for making the effect play on running	//runningEffect.Play(); ///////////
 			}
 			else
 			{
